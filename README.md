@@ -1,2 +1,2 @@
-# codepath-Flixter
+# Flixter
 Flixter App for CodePath
